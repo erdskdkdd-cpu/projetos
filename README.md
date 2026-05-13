@@ -39,8 +39,8 @@ algumas coisas do projeto:
 
 ## github stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark)
+![stats](https://github-readme-stats.vercel.app/api?username=erdskdkdd-cpu&show_icons=true&theme=dark)
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erdskdkdd-cpu&layout=compact&theme=dark)
 
 # Exploit, dont skid
