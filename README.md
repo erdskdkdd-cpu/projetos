@@ -35,12 +35,5 @@ algumas coisas do projeto:
 - low level
 - exploiting
 
----
-
-## github stats
-
-![stats](https://github-readme-stats.vercel.app/api?username=erdskdkdd-cpu&show_icons=true&theme=dark)
-
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erdskdkdd-cpu&layout=compact&theme=dark)
 
 # Exploit, dont skid
